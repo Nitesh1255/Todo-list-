@@ -1,6 +1,8 @@
 # Introduction
 Welcome to the Todo List application! This tool is designed to help you organize and manage your tasks effectively. Whether you're a professional looking to streamline your work or an individual aiming to stay on top of personal responsibilities, this application has got you covered.
 
+![todo](https://github.com/Nitesh1255/Todo-list-/assets/119393883/0d34bcd1-acea-4a78-a377-bc1af96227a7)
+
 # Features
 User-friendly Interface: Our intuitive and clean interface ensures a seamless user experience.
 Task Management: Easily add, edit, and delete tasks to keep your list up-to-date.
